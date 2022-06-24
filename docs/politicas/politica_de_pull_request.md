@@ -10,7 +10,6 @@ Para abrir um Pull Request nesse projeto deverá ser utilizado o template de pul
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
-|23/06/2022|1.0|Adiciona Políticas de Pull Request
-|[itallo Gravina](https://github.com/itallogravina)|
+|23/06/2022|1.0|Adiciona Políticas de Pull Request|[itallo Gravina](https://github.com/itallogravina)|
 
 
